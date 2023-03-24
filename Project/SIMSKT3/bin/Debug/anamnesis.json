@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "pati": "Maja Milic 657858575",
+    "name": "Bol u stomaku",
+    "description": "Izgleda da je bubreg otisao - nema spasa"
+  },
+  {
+    "id": "2",
+    "pati": "Lana Rikic 2812345002012",
+    "name": "Infekcija usne duplje",
+    "description": "Pojavilo se crvenilo u grlu"
+  },
+  {
+    "id": "3",
+    "pati": "Relja Bojic 2812345002014",
+    "name": "Glavobolja",
+    "description": "Pacijent povremeno gubi svest"
+  },
+  {
+    "id": " 4",
+    "pati": "Sara Savic 2812345002017",
+    "name": "Visoka temperatura",
+    "description": " Pacijent ima visoku telesnu temperaturu"
+<<<<<<< HEAD
+=======
+  },
+  {
+    "id": "5",
+    "pati": "Maja Milic 657858575",
+    "name": "Bol u stomaku ",
+    "description": "dsaasdsad"
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+  }
+]

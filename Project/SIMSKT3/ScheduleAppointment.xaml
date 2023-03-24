@@ -1,0 +1,35 @@
+﻿<Window x:Class="SIMSKT3.ScheduleAppointment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIMSKT3"
+        mc:Ignorable="d"
+        Title="ScheduleAppointment" Height="536.646" Width="755.279">
+    <Grid>
+        <TextBox x:Name="Textbox7" HorizontalAlignment="Left" Height="29" Margin="119,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="175"/>
+        <Label Content="SCHEDULE APPOINTMENT" HorizontalAlignment="Left" Height="52" Margin="25,10,0,0" VerticalAlignment="Top" Width="228"/>
+        <TextBox x:Name="Textbox6" HorizontalAlignment="Left" Height="32" Margin="117,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="175"/>
+        <Label Content="PATIENT &#xA;JMBG" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Height="55" Width="60" RenderTransformOrigin="0.45,0.727"/>
+        <Label Content="DOCTOR" HorizontalAlignment="Left" Margin="11,130,0,0" VerticalAlignment="Top" Height="36" Width="84"/>
+        <Button Content="Schedule appointment" HorizontalAlignment="Left" Margin="157,210,0,0" VerticalAlignment="Top" Width="137" Height="35" Click="Button_ScheduleApp"/>
+        <Button Content="List all doctor appointments" HorizontalAlignment="Left" Margin="428,115,0,0" VerticalAlignment="Top" Width="272" Height="40" Click="Button_ClickReadAllpp" />
+        <ListView x:Name="lv_app" HorizontalAlignment="Left" Height="20" Margin="25,276,0,0" VerticalAlignment="Top" Width="697">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="30" Header="ID" />
+                    <GridViewColumn Width="50" Header="START" />
+                    <GridViewColumn Width="60" Header="END" />
+                    <GridViewColumn Width="150" Header="DATE" />
+                    <GridViewColumn Width="150" Header="DOCTOR" />
+                    <GridViewColumn Width="150" Header="AVAILABLE" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListBox x:Name="lb_app" HorizontalAlignment="Left" Height="142" Margin="25,295,0,0" VerticalAlignment="Top" Width="697"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="647,458,-26,-40" VerticalAlignment="Top" Width="90" Height="40" Click="Button_ClickBack" RenderTransformOrigin="0.693,1.789"/>
+        <TextBox x:Name="Textbox7_Copy" HorizontalAlignment="Left" Height="29" Margin="119,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="175"/>
+        <Label Content="APPOINTMENT" HorizontalAlignment="Left" Margin="11,172,0,0" VerticalAlignment="Top" Height="36" Width="94"/>
+
+    </Grid>
+</Window>

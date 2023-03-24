@@ -1,0 +1,152 @@
+[
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "18-OG",
+    "typeOdStaticEquipment": "stolice",
+    "equipId": 1,
+    "quantity": 1.0,
+    "transferdate": "05/22/2021",
+    "startTime": "22:40",
+    "endTime": "22:50"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "18-OG",
+    "typeOdStaticEquipment": "lezaljke",
+    "equipId": 19,
+    "quantity": 5.0,
+    "transferdate": "05/08/2021",
+    "startTime": "22:40",
+    "endTime": "22:50"
+  },
+  {
+    "fromRoomName": "18-OG",
+    "toRoomName": "105-FR",
+    "typeOdStaticEquipment": "lezaljke",
+    "equipId": 19,
+    "quantity": 4.0,
+    "transferdate": "06/17/2021",
+    "startTime": "15:40",
+    "endTime": "15:50"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "18-OG",
+    "typeOdStaticEquipment": "stolovi",
+    "equipId": 22,
+    "quantity": 9.0,
+    "transferdate": "05/29/2021",
+    "startTime": "10:10",
+    "endTime": "11:00"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "18-OG",
+    "typeOdStaticEquipment": "solarni",
+    "equipId": 555,
+    "quantity": 5.0,
+    "transferdate": "05/29/2021",
+    "startTime": "22:10",
+    "endTime": "22:30"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "18-OG",
+    "typeOdStaticEquipment": "solarni",
+    "equipId": 555,
+    "quantity": 94.0,
+    "transferdate": "05/29/2021",
+    "startTime": "22:10",
+    "endTime": "22:30"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "GB-44",
+    "typeOdStaticEquipment": "stolice",
+    "equipId": 1,
+    "quantity": 1.0,
+    "transferdate": "09/05/2021",
+    "startTime": "21:30",
+    "endTime": "22:00"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "GB-44",
+    "typeOdStaticEquipment": "lezaljke",
+    "equipId": 19,
+    "quantity": 5.0,
+    "transferdate": "09/05/2021",
+    "startTime": "22:00",
+    "endTime": "23:00"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "GB-44",
+    "typeOdStaticEquipment": "lezaljke",
+    "equipId": 19,
+    "quantity": 5.0,
+    "transferdate": "09/05/2021",
+    "startTime": "22:00",
+    "endTime": "23:00"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "18-OG",
+    "typeOdStaticEquipment": "skeneri",
+    "equipId": 112,
+    "quantity": 5.0,
+    "transferdate": "05/29/2021",
+    "startTime": "12:00",
+    "endTime": "12:30"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "18-OG",
+    "typeOdStaticEquipment": "skeneri",
+    "equipId": 112,
+    "quantity": 5.0,
+    "transferdate": "05/29/2021",
+    "startTime": "12:00",
+    "endTime": "12:30"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "18-OG",
+    "typeOdStaticEquipment": "stolice",
+    "equipId": 1,
+    "quantity": 5.0,
+    "transferdate": "09/22/2021",
+    "startTime": "14:00",
+    "endTime": "15:00"
+  },
+  {
+    "fromRoomName": "GB-44",
+    "toRoomName": "105-FR",
+    "typeOdStaticEquipment": "stolice",
+    "equipId": 1,
+    "quantity": 50.0,
+    "transferdate": "07/10/2021",
+    "startTime": "15:00",
+    "endTime": "15:30"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "GB-44",
+    "typeOdStaticEquipment": "ormari",
+    "equipId": 19,
+    "quantity": 5.0,
+    "transferdate": "07/10/2021",
+    "startTime": "15:00",
+    "endTime": "15:30"
+  },
+  {
+    "fromRoomName": "105-FR",
+    "toRoomName": "GB-44",
+    "typeOdStaticEquipment": "ormari",
+    "equipId": 19,
+    "quantity": 2.0,
+    "transferdate": "10/09/2021",
+    "startTime": "20:00",
+    "endTime": "21:00"
+  }
+]

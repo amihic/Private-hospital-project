@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3,
+    "title": "OTKAZAN PREGLED",
+    "text": "Otkazan je pregled u sali 4 - 12h.",
+    "date": "23/6/2021"
+  },
+  {
+    "id": 4,
+    "title": "OTKAZANA OPERACIJA",
+    "text": "Prebacena u salu 16-18h.",
+    "date": "21/12/2021"
+  },
+  {
+    "id": 1,
+    "title": " PROMENJENA OPERACIJA",
+    "text": " Promenjen termin za 20h.",
+    "date": " 21/12/2021"
+  },
+  {
+    "id": 2,
+    "title": " PROMENJEN PREGLED",
+    "text": " Promenjena sala - sala 101.",
+    "date": " 14/8/2021"
+  }
+]

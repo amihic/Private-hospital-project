@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "pantoprazol",
+    "status": "VALIDATED",
+    "description": "jako opasan lek za slobodno koriscenje",
+    "ingredients": "1:100000adrenalina 95%, Scandonest 2%, mediapan 3% ",
+    "alternatives": "brufen, aspirin, vitamin b"
+  },
+  {
+    "id": 2,
+    "name": "lanosprazol",
+    "status": "VALIDATED",
+    "description": "moze se koristiti bilo kada",
+    "ingredients": "inmuzin 90%, penfill 5%, malatin 5%",
+    "alternatives": "kardiopirin, brufen"
+  },
+  {
+    "id": 3,
+    "name": "pankreatin",
+    "status": "VALIDATED",
+    "description": "za pankreas ",
+    "ingredients": "adrenalin 95%, malatin 3%, aspart 2%",
+    "alternatives": "vitamin b, aspirin, malagdit"
+  },
+  {
+    "id": 4,
+    "name": "pankreatonin",
+    "status": "VALIDATED",
+    "description": "za crevnu floru",
+    "ingredients": "abasaglar 50%, tiraonin 46%, asantin 4%",
+    "alternatives": "inslulin degludek, metformin, glibenklamid"
+  },
+  {
+    "id": 5,
+    "name": "digoxicor",
+    "status": "VALIDATED",
+    "description": "tabletica",
+    "ingredients": "blister 90%, abasaglar 10%",
+    "alternatives": "monosan, molicor, brufen, aspirin"
+  },
+  {
+    "id": 6,
+    "name": "cornilatonin",
+    "status": "VALIDATED",
+    "description": "lek za svakodnevnu upotrebu",
+    "ingredients": "izosobrid, mononitrat, dinitrat",
+    "alternatives": "monosan, molicor, cordarone"
+  },
+  {
+    "id": 7,
+    "name": "nitroglicerin",
+    "status": "VALIDATED",
+    "description": "opasnost",
+    "ingredients": "molsidomin 10%, glutamat 90%",
+    "alternatives": "brufen, pankreatin"
+  },
+  {
+    "id": 8,
+    "name": "smondroksid",
+    "status": "VALIDATED",
+    "description": "za crvena krvna zrnca",
+    "ingredients": "maragdit 10%, polen 60%, adrenalin 30%",
+    "alternatives": "propilis, aspirin, brufen"
+  }
+]

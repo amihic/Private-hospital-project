@@ -1,0 +1,6 @@
+Medicine canceled:pankreatin	Reason:radioaktivan je i moze dovesti do vecih problema nego koristi
+Medicine canceled:hlorokin	Reason:nema ulogu kod nasih pacijenata za sada
+Medicine canceled:pandularotin	Reason:sastojci koji nisu zdravi
+Medicine canceled:brufen	Reason:vec ga imamo u listi
+
+

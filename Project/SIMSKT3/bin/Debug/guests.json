@@ -1,0 +1,66 @@
+[
+  {
+    "id": 33,
+    "name": "Marija",
+    "surname": "Ristic",
+    "jmbg": "3187463163",
+    "appointments": [],
+    "Appointments": []
+  },
+  {
+    "id": 44,
+    "name": "Nikola",
+    "surname": "Mirovic",
+    "jmbg": "318746314",
+    "appointments": [],
+    "Appointments": []
+  },
+  {
+    "id": 66,
+    "name": "Dragan",
+    "surname": "Dobric",
+    "jmbg": "3187463166",
+    "appointments": [],
+    "Appointments": []
+  },
+  {
+    "id": 77,
+    "name": "Natali",
+    "surname": "Bobic",
+    "jmbg": "3187463167",
+    "appointments": [],
+    "Appointments": []
+  },
+  {
+    "id": 19,
+    "name": "Bojana",
+    "surname": "Nikolic",
+    "jmbg": "3187463160",
+    "appointments": [],
+    "Appointments": []
+  },
+  {
+    "id": 1,
+    "name": "Milos",
+    "surname": "Maric",
+    "jmbg": "85743865483",
+    "appointments": [],
+    "Appointments": []
+  },
+  {
+    "id": 56,
+    "name": "ana",
+    "surname": "bojic",
+    "jmbg": "535435232",
+    "appointments": [],
+    "Appointments": []
+  },
+  {
+    "id": 8,
+    "name": "mila",
+    "surname": "nikic",
+    "jmbg": "936432942",
+    "appointments": null,
+    "Appointments": []
+  }
+]

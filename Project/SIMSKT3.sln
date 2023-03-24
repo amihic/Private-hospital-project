@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSKT3", "SIMSKT3\SIMSKT3.csproj", "{29EB51D2-8EB9-49B1-9CD9-4D1250C2FEF2}"
+=======
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSKT3", "SIMSKT3\SIMSKT3.csproj", "{E955E993-0463-4C8D-96C0-BD3EDB2B3A80}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSKT3", "SIMSKT3\SIMSKT3.csproj", "{29EB51D2-8EB9-49B1-9CD9-4D1250C2FEF2}"
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+		{E955E993-0463-4C8D-96C0-BD3EDB2B3A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E955E993-0463-4C8D-96C0-BD3EDB2B3A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E955E993-0463-4C8D-96C0-BD3EDB2B3A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E955E993-0463-4C8D-96C0-BD3EDB2B3A80}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+		{29EB51D2-8EB9-49B1-9CD9-4D1250C2FEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EB51D2-8EB9-49B1-9CD9-4D1250C2FEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EB51D2-8EB9-49B1-9CD9-4D1250C2FEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EB51D2-8EB9-49B1-9CD9-4D1250C2FEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
+		SolutionGuid = {008CCB60-F060-4715-A8C7-01B79FB8A8B0}
+=======
+<<<<<<< HEAD
+		SolutionGuid = {6D290088-8025-4451-BE8B-719287AC96AE}
+=======
+		SolutionGuid = {008CCB60-F060-4715-A8C7-01B79FB8A8B0}
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+﻿<Window x:Class="SIMSKT3.UpdateNewsBoard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIMSKT3"
+        mc:Ignorable="d"
+        Title="UpdateNewsBoard" Height="458.696" Width="441.304">
+    <Grid Margin="0,0,2,16">
+        <Label Content="UPDATE NEWS" HorizontalAlignment="Left" Height="52" Margin="25,10,0,0" VerticalAlignment="Top" Width="228"/>
+        <TextBox x:Name="Textbox11" HorizontalAlignment="Left" Height="32" Margin="164,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="175" IsEnabled="False"/>
+        <TextBox x:Name="Textbox22" HorizontalAlignment="Left" Height="32" Margin="164,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="175"/>
+        <TextBox x:Name="Textbox33" HorizontalAlignment="Left" Height="32" Margin="164,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="175"/>
+        <Label Content="ID" HorizontalAlignment="Left" Margin="25,70,0,0" VerticalAlignment="Top" Height="35" Width="32"/>
+        <Label Content="TITLE" HorizontalAlignment="Left" Margin="25,130,0,0" VerticalAlignment="Top" Height="36" Width="84"/>
+        <Label Content="TEXT" HorizontalAlignment="Left" Margin="25,250,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.545,0.423" Height="35" Width="67"/>
+        <Label Content="DATE" HorizontalAlignment="Left" Margin="25,190,0,0" VerticalAlignment="Top" Height="35" Width="52"/>
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="25,359,0,0" VerticalAlignment="Top" Width="90" Height="40" Click="Button_ClickClear" RenderTransformOrigin="0.539,-0.516"/>
+        <Button Content="Update" HorizontalAlignment="Left" Margin="164,339,0,0" VerticalAlignment="Top" Width="120" Height="60" Click="Button_ClickUpdate"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="317,359,0,0" VerticalAlignment="Top" Width="90" Height="40" Click="Button_ClickBack" RenderTransformOrigin="0.693,1.789"/>
+        <TextBox x:Name="Textbox66" HorizontalAlignment="Left" Height="32" Margin="164,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="175"/>
+
+    </Grid>
+</Window>

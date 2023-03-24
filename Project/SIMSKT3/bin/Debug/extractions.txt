@@ -1,0 +1,16 @@
+Extracted dynamic equipment:postelje 	 quantity:42
+Extracted dynamic equipment:postelje 	 quantity:100
+Extracted dynamic equipment:flasteri	 quantity:1000
+Extracted dynamic equipment:nozevi	 quantity:500
+Extracted dynamic equipment:vakcine	 quantity:790
+Extracted dynamic equipment:nozevi	 quantity:90
+Extracted dynamic equipment:makaze	 quantity:54
+Extracted dynamic equipment:vakcine	 quantity:40333
+Extracted dynamic equipment:zavoji	 quantity:500
+Extracted dynamic equipment:vakcine	 quantity:5600
+Extracted dynamic equipment:marame	 quantity:300
+<<<<<<< HEAD
+=======
+Extracted dynamic equipment:spricevi	 quantity:500
+Extracted dynamic equipment:sajlice	 quantity:50
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c

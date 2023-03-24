@@ -1,0 +1,55 @@
+﻿SIMSKT3
+
+
+winexe
+C#
+.cs
+<<<<<<< HEAD
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\
+=======
+<<<<<<< HEAD
+C:\Users\HP-Miha\Desktop\SIMSKT5\SIMSKT3\SIMSKT3\obj\Debug\
+=======
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+SIMSKT3
+none
+false
+DEBUG;TRACE
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\App.xaml
+13-633977880
+
+103-1976438155
+14-1542752479
+ChooseDoctor.xaml;EmergencyAppointment.xaml;GuestAccountCreate.xaml;MainWindow.xaml;ManageAllergens.xaml;MedicalRecords.xaml;NewsBoard.xaml;OptionsSecretary.xaml;PatientAccountCRUD.xaml;ScheduleAppointment.xaml;SecretaryUpdate.xaml;SecretaryUpdateAllergen.xaml;UpdateNewsBoard.xaml;
+=======
+<<<<<<< HEAD
+C:\Users\HP-Miha\Desktop\SIMSKT5\SIMSKT3\SIMSKT3\App.xaml
+11151548125
+=======
+C:\Users\HP-Miha\Documents\GitHub\SIMSprojekat\Project\SIMSKT3\App.xaml
+191522822551
+
+76-1772711566
+14-714315050
+Anamnesis.xaml;Appointment.xaml;DirectorUpdate.xaml;Doctor.xaml;GuestAccountCreate.xaml;MainWindow.xaml;ManageAllergens.xaml;MedicalRecords.xaml;OptionsDirector.xaml;OptionsSecretary.xaml;PatientAccountCRUD.xaml;Prescription.xaml;Properties\Doctor.xaml;Renovation.xaml;RoomCRUD.xaml;SecretaryUpdate.xaml;SecretaryUpdateAllergen.xaml;StaticEquipmentCRUD.xaml;UpdateStaticEquipment.xaml;
+>>>>>>> Stashed changes
+
+91832733985
+14824363640
+MainWindow.xaml;
+=======
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\App.xaml
+26-1307319874
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+
+119-1654830304
+142055059904
+ChooseDoctor.xaml;DirectorUpdate.xaml;DynamicEquipmentCRUD.xaml;EmergencyAppointment.xaml;Extract.xaml;GuestAccountCreate.xaml;MainWindow.xaml;ManageAllergens.xaml;ManageStaticEquipment.xaml;MedicalRecords.xaml;Medicine.xaml;MedicineUpdate.xaml;NewsBoard.xaml;OptionsDirector.xaml;OptionsSecretary.xaml;PatientAccountCRUD.xaml;Renovation.xaml;RoomCRUD.xaml;ScheduleAppointment.xaml;SearchEquipment.xaml;SecretaryUpdate.xaml;SecretaryUpdateAllergen.xaml;StaticEquipmentCRUD.xaml;UpdateNewsBoard.xaml;UpdateStaticEquipment.xaml;WarehouseUpdate.xaml;
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+
+False
+

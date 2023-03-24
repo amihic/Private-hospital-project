@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
+    <ProjectGuid>{29EB51D2-8EB9-49B1-9CD9-4D1250C2FEF2}</ProjectGuid>
+=======
+<<<<<<< HEAD
+    <ProjectGuid>{E955E993-0463-4C8D-96C0-BD3EDB2B3A80}</ProjectGuid>
+=======
+    <ProjectGuid>{29EB51D2-8EB9-49B1-9CD9-4D1250C2FEF2}</ProjectGuid>
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SIMSKT3</RootNamespace>
+    <AssemblyName>SIMSKT3</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <Compile Include="Repository\AllergenWarningRepository.cs" />
+    <Compile Include="Repository\AppointmentRepository.cs" />
+    <Compile Include="Repository\DynamicEquipmentRepository.cs" />
+    <Compile Include="Repository\EmployeeRepository.cs" />
+    <Compile Include="Repository\GuestAccountRepository.cs" />
+    <Compile Include="Repository\HospitalTreatmentRepository.cs" />
+    <Compile Include="Repository\MedicalRecordRepository.cs" />
+    <Compile Include="Repository\MedicineAlertRepository.cs" />
+=======
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="ChooseDoctor.xaml.cs">
+      <DependentUpon>ChooseDoctor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\DoctorController.cs" />
+    <Compile Include="Controller\EmergencyController.cs" />
+    <Compile Include="Controller\GuestAccountController.cs" />
+    <Compile Include="Controller\ManageAllergenController.cs" />
+    <Compile Include="Controller\SecretaryController.cs" />
+<<<<<<< HEAD
+    <Compile Include="EmergencyAppointment.xaml.cs">
+      <DependentUpon>EmergencyAppointment.xaml</DependentUpon>
+=======
+    <Compile Include="Controller\WarehouseController.cs" />
+    <Compile Include="DirectorUpdate.xaml.cs">
+      <DependentUpon>DirectorUpdate.xaml</DependentUpon>
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    </Compile>
+    <Compile Include="DynamicEquipmentCRUD.xaml.cs">
+      <DependentUpon>DynamicEquipmentCRUD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EmergencyAppointment.xaml.cs">
+      <DependentUpon>EmergencyAppointment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Extract.xaml.cs">
+      <DependentUpon>Extract.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GuestAccountCreate.xaml.cs">
+      <DependentUpon>GuestAccountCreate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ManageAllergens.xaml.cs">
+      <DependentUpon>ManageAllergens.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ManageStaticEquipment.xaml.cs">
+      <DependentUpon>ManageStaticEquipment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MedicalRecords.xaml.cs">
+      <DependentUpon>MedicalRecords.xaml</DependentUpon>
+    </Compile>
+<<<<<<< HEAD
+    <Compile Include="Model\GuestAccount.cs" />
+    <Compile Include="NewsBoard.xaml.cs">
+      <DependentUpon>NewsBoard.xaml</DependentUpon>
+=======
+    <Compile Include="Medicine.xaml.cs">
+      <DependentUpon>Medicine.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MedicineUpdate.xaml.cs">
+      <DependentUpon>MedicineUpdate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\GuestAccount.cs" />
+    <Compile Include="Model\ManageStaticEquipment.cs" />
+    <Compile Include="NewsBoard.xaml.cs">
+      <DependentUpon>NewsBoard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OptionsDirector.xaml.cs">
+      <DependentUpon>OptionsDirector.xaml</DependentUpon>
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    </Compile>
+    <Compile Include="OptionsSecretary.xaml.cs">
+      <DependentUpon>OptionsSecretary.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PatientAccountCRUD.xaml.cs">
+      <DependentUpon>PatientAccountCRUD.xaml</DependentUpon>
+    </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Include="Renovation.xaml.cs">
+      <DependentUpon>Renovation.xaml</DependentUpon>
+    </Compile>
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Repository\AppointmentRepository.cs" />
+    <Compile Include="Repository\DoctorRepository.cs" />
+    <Compile Include="Repository\DynamicEquipmentRepository.cs" />
+    <Compile Include="Repository\EmergencyRepository.cs" />
+    <Compile Include="Repository\EmployeeRepository.cs" />
+    <Compile Include="Repository\GuestAccountRepository.cs" />
+    <Compile Include="Repository\ManageAllergenRepository.cs" />
+    <Compile Include="Repository\MedicalRecordRepository.cs" />
+<<<<<<< HEAD
+=======
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Repository\MedicineRepository.cs" />
+    <Compile Include="Repository\NewsRepository.cs" />
+    <Compile Include="Repository\NotificationRepository.cs" />
+    <Compile Include="Repository\PatientRepository.cs" />
+<<<<<<< HEAD
+    <Compile Include="Repository\ReferralLetterRepository.cs" />
+=======
+<<<<<<< HEAD
+    <Compile Include="Repository\ReferralLetterForSpecialistRepository.cs" />
+=======
+    <Compile Include="Repository\ReferralLetterRepository.cs" />
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Repository\ReminderRepository.cs" />
+    <Compile Include="Repository\RenovationRepository.cs" />
+    <Compile Include="Repository\RoomRepository.cs" />
+    <Compile Include="Repository\StaticEquipmentRepository.cs" />
+    <Compile Include="Repository\SurveyRepository.cs" />
+<<<<<<< HEAD
+    <Compile Include="ScheduleAppointment.xaml.cs">
+      <DependentUpon>ScheduleAppointment.xaml</DependentUpon>
+=======
+<<<<<<< HEAD
+    <Compile Include="Service\AllergenWarningService.cs" />
+=======
+    <Compile Include="Repository\WarehouseRepository.cs" />
+    <Compile Include="RoomCRUD.xaml.cs">
+      <DependentUpon>RoomCRUD.xaml</DependentUpon>
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    </Compile>
+    <Compile Include="ScheduleAppointment.xaml.cs">
+      <DependentUpon>ScheduleAppointment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SearchEquipment.xaml.cs">
+      <DependentUpon>SearchEquipment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SecretaryUpdate.xaml.cs">
+      <DependentUpon>SecretaryUpdate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SecretaryUpdateAllergen.xaml.cs">
+      <DependentUpon>SecretaryUpdateAllergen.xaml</DependentUpon>
+    </Compile>
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+    <Compile Include="Service\AppointmentService.cs" />
+    <Compile Include="Service\DoctorService.cs" />
+    <Compile Include="Service\DynamicEquipmentService.cs" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <Compile Include="Service\EmployeeService.cs" />
+    <Compile Include="Service\HospitalTreatmentService.cs" />
+    <Compile Include="Service\MedicalRecordService.cs" />
+    <Compile Include="Service\MedicineAlertService.cs" />
+=======
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Service\EmergencyService.cs" />
+    <Compile Include="Service\EmployeeService.cs" />
+    <Compile Include="Service\GuestAccountService.cs" />
+    <Compile Include="Service\ManageAllergenService.cs" />
+    <Compile Include="Service\MedicalRecordService.cs" />
+<<<<<<< HEAD
+=======
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Service\MedicineService.cs" />
+    <Compile Include="Service\NewsBoardService.cs" />
+    <Compile Include="Service\NotificationService.cs" />
+    <Compile Include="Service\PatientService.cs" />
+<<<<<<< HEAD
+    <Compile Include="Service\ReferralLetterService.cs" />
+=======
+<<<<<<< HEAD
+    <Compile Include="Service\ReferralLetterForSpecialistService.cs" />
+=======
+    <Compile Include="Service\ReferralLetterService.cs" />
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Service\ReminderService.cs" />
+    <Compile Include="Service\RenovationService.cs" />
+    <Compile Include="Service\RoomService.cs" />
+    <Compile Include="Service\StaticEquipmentService.cs" />
+    <Compile Include="Service\SurveyService.cs" />
+<<<<<<< HEAD
+    <Compile Include="UpdateNewsBoard.xaml.cs">
+      <DependentUpon>UpdateNewsBoard.xaml</DependentUpon>
+    </Compile>
+=======
+<<<<<<< HEAD
+=======
+    <Compile Include="StaticEquipmentCRUD.xaml.cs">
+      <DependentUpon>StaticEquipmentCRUD.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateNewsBoard.xaml.cs">
+      <DependentUpon>UpdateNewsBoard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateStaticEquipment.xaml.cs">
+      <DependentUpon>UpdateStaticEquipment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WarehouseUpdate.xaml.cs">
+      <DependentUpon>WarehouseUpdate.xaml</DependentUpon>
+    </Compile>
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Page Include="ChooseDoctor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+<<<<<<< HEAD
+    <Page Include="EmergencyAppointment.xaml">
+=======
+    <Page Include="DirectorUpdate.xaml">
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DynamicEquipmentCRUD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EmergencyAppointment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Extract.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GuestAccountCreate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controller\AllergenWarningController.cs" />
+    <Compile Include="Controller\AppointmentController.cs" />
+    <Compile Include="Controller\DynamicEquipmentController.cs" />
+    <Compile Include="Controller\EmployeeController.cs" />
+    <Compile Include="Controller\GuestService.cs" />
+<<<<<<< HEAD
+    <Compile Include="Controller\MedicalRecordController.cs" />
+=======
+<<<<<<< HEAD
+    <Compile Include="Controller\HospitalTreatmentController.cs" />
+    <Compile Include="Controller\MedicalRecordController.cs" />
+    <Compile Include="Controller\MedicineAlertController.cs" />
+=======
+    <Compile Include="Controller\MedicalRecordController.cs" />
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Controller\MedicineController.cs" />
+    <Compile Include="Controller\NewsBoardController.cs" />
+    <Compile Include="Controller\NotificationController.cs" />
+    <Compile Include="Controller\PatientController.cs" />
+<<<<<<< HEAD
+    <Compile Include="Controller\ReferralLetterController.cs" />
+=======
+<<<<<<< HEAD
+    <Compile Include="Controller\ReferralLetterForSpecialistController.cs" />
+=======
+    <Compile Include="Controller\ReferralLetterController.cs" />
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Controller\ReminderController.cs" />
+    <Compile Include="Controller\RenovationController.cs" />
+    <Compile Include="Controller\RoomController.cs" />
+    <Compile Include="Controller\StaticEquipmentController.cs" />
+    <Compile Include="Controller\SurveyController.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+<<<<<<< HEAD
+=======
+    <Page Include="ManageAllergens.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ManageStaticEquipment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MedicalRecords.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+<<<<<<< HEAD
+    <Page Include="NewsBoard.xaml">
+=======
+    <Page Include="Medicine.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MedicineUpdate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NewsBoard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OptionsDirector.xaml">
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OptionsSecretary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PatientAccountCRUD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ScheduleAppointment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ScheduleAppointment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SearchEquipment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SecretaryUpdate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SecretaryUpdateAllergen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+<<<<<<< HEAD
+    <Page Include="UpdateNewsBoard.xaml">
+=======
+    <Page Include="StaticEquipmentCRUD.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateNewsBoard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateStaticEquipment.xaml">
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WarehouseUpdate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\Address.cs" />
+    <Compile Include="Model\Allergen.cs" />
+    <Compile Include="Model\AllergenWarning.cs" />
+    <Compile Include="Model\Anamnesis.cs" />
+    <Compile Include="Model\Appointment.cs" />
+    <Compile Include="Model\AppointmentType.cs" />
+    <Compile Include="Model\Doctor.cs" />
+    <Compile Include="Model\DynamicEquipment.cs" />
+    <Compile Include="Model\Employee.cs" />
+    <Compile Include="Model\EmployeeType.cs" />
+    <Compile Include="Model\Feedback.cs" />
+<<<<<<< HEAD
+    <Compile Include="Model\MedicalRecord.cs" />
+    <Compile Include="Model\Medicine.cs" />
+=======
+<<<<<<< HEAD
+    <Compile Include="Model\HospitalTreatment.cs" />
+    <Compile Include="Model\MedicalRecord.cs" />
+    <Compile Include="Model\Medicine.cs" />
+    <Compile Include="Model\MedicineAlert.cs" />
+=======
+    <Compile Include="Model\MedicalRecord.cs" />
+    <Compile Include="Model\Medicine.cs" />
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Model\News.cs" />
+    <Compile Include="Model\NewsBoard.cs" />
+    <Compile Include="Model\NotificationRefferal.cs" />
+    <Compile Include="Model\Patient.cs" />
+    <Compile Include="Model\Prescription.cs" />
+<<<<<<< HEAD
+    <Compile Include="Model\ReferralLetter.cs" />
+    <Compile Include="Model\Reminder.cs" />
+    <Compile Include="Model\Renovation.cs" />
+=======
+<<<<<<< HEAD
+    <Compile Include="Model\ReferralLetterForSpecialist.cs" />
+    <Compile Include="Model\Reminder.cs" />
+    <Compile Include="Model\Renovation.cs" />
+    <Compile Include="Model\RenovationType.cs" />
+=======
+    <Compile Include="Model\ReferralLetter.cs" />
+    <Compile Include="Model\Reminder.cs" />
+    <Compile Include="Model\Renovation.cs" />
+>>>>>>> fd620a89ab765ad29524f4512b4a532feef65325
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    <Compile Include="Model\Room.cs" />
+    <Compile Include="Model\RoomType.cs" />
+    <Compile Include="Model\Secretary.cs" />
+    <Compile Include="Model\StaticEquipment.cs" />
+    <Compile Include="Model\StatusType.cs" />
+    <Compile Include="Model\Survey.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Model\Warehouse.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

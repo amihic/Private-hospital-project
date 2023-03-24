@@ -1,0 +1,21 @@
+﻿<Window x:Class="SIMSKT3.Notifications"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIMSKT3"
+        mc:Ignorable="d"
+        Title="Notifications" Height="450" Width="800">
+    <Grid>
+        <Button Content="Back" HorizontalAlignment="Left" Height="40" Margin="692,369,0,0" VerticalAlignment="Top" Width="90" Click="Button_ClickBACK"/>
+        <Button Content="See all notifications" HorizontalAlignment="Left" Margin="310,36,0,0" VerticalAlignment="Top" Width="178" Height="53" Click="read_all" />
+        <ListView x:Name="lv_notifications" HorizontalAlignment="Left" Height="284" Margin="112,125,0,0" VerticalAlignment="Top" Width="559" SelectionChanged="lv_notifications_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="559" Header="NAME                         NOTIFICATION                                                                                         " />
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

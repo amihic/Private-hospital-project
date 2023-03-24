@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3,
+    "name": "76-A",
+    "type": "OperatingRoom",
+    "floor": 7,
+    "description": "Operaciona sala za srcane bolesnike",
+<<<<<<< HEAD
+    "StaticEquipment": [
+      {
+        "id": "1",
+        "typeOdStaticEquipment": "Stolovi",
+        "quantity": "15"
+      },
+      {
+        "id": "2",
+        "typeOdStaticEquipment": "Stolice",
+        "quantity": "20"
+      },
+      {
+        "id": "3",
+        "typeOdStaticEquipment": "Kreveti",
+        "quantity": "10"
+      }
+    ]
+=======
+    "staticEquipment": [],
+    "employee": null,
+    "StaticEquipment": []
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+  },
+  {
+    "id": 6,
+    "name": "1-AR",
+    "type": "Ordination",
+    "floor": 11,
+    "description": "Odrinacija za primanje starijih lica",
+    "staticEquipment": [],
+    "employee": null,
+    "StaticEquipment": []
+  },
+  {
+    "id": 7,
+    "name": "17-LL",
+    "type": "IntensiveCare",
+    "floor": 4,
+    "description": "Intenzivna nega standardno",
+    "staticEquipment": [],
+    "employee": null,
+    "StaticEquipment": []
+  },
+  {
+    "id": 8,
+    "name": "80-TRA",
+    "type": "Ordination",
+    "floor": 1,
+    "description": "Ordinacija za ljude srednjih godina",
+    "staticEquipment": [],
+    "employee": null,
+    "StaticEquipment": []
+  },
+  {
+    "id": 9,
+    "name": "8-GT",
+    "type": "Ordination",
+    "floor": 2,
+    "description": "Obavlja se svakodnevni pregled",
+    "staticEquipment": [],
+    "employee": null,
+    "StaticEquipment": []
+  },
+  {
+    "id": 1,
+    "name": "GB-44",
+    "type": "Ordination",
+    "floor": 3,
+    "description": "Soba koja sluzi za pokazivanje staticke opreme",
+    "staticEquipment": [],
+    "employee": null,
+    "StaticEquipment": []
+  },
+  {
+    "id": 4,
+    "name": "105-FR",
+    "type": "Ordination",
+    "floor": 2,
+    "description": "Soba koja sluzi za pokazivanje staticke opreme",
+    "staticEquipment": null,
+    "employee": null,
+    "StaticEquipment": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "PODSETNIK ZA LEK",
+    "description": "Za sat vremena popite jednu tabletu Brufen-a"
+    
+  },
+  {
+    "id": "2",
+    "name": "PODSETNIK ZA LEK",
+    "description": "Za sat vremena popite jednu tabletu Brufena i jednu tabletu Andol-a"
+
+  },
+  {
+    "id": "3",
+    "name": "PODSETNIK ZA LEK",
+    "description": "Za sat vremena popite jednu kesicu Fervex-a"
+
+  }
+]

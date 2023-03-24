@@ -1,0 +1,29 @@
+﻿<Window x:Class="SIMSKT3.OptionsDirector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIMSKT3"
+        mc:Ignorable="d"
+        Title="OptionsDirector" Height="450" Width="800">
+    <Grid>
+        <Button Content="RoomCRUD" HorizontalAlignment="Left" Margin="48,70,0,0" VerticalAlignment="Top" Width="115" Height="50" Click="Button_ClickRoomCRUD"/>
+<<<<<<< HEAD
+        <Button Content="Renovation" HorizontalAlignment="Left" Height="50" Margin="192,70,0,0" VerticalAlignment="Top" Width="115" Click="Button_ClickRenovation"/>
+=======
+        <Button Content="Basic renovation" HorizontalAlignment="Left" Height="50" Margin="192,70,0,0" VerticalAlignment="Top" Width="115" Click="Button_ClickRenovation"/>
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+        <Button Content="Warehouse" HorizontalAlignment="Left" Height="50" Margin="49,152,0,0" VerticalAlignment="Top" Width="115" Click="Button_ClickWarehouse"/>
+        <Button Content="Back" HorizontalAlignment="Left" Height="40" Margin="647,347,0,0" VerticalAlignment="Top" Width="90" Click="Button_ClickBack"/>
+        <Button Content="StaticEquipment&#xD;&#xA;CRUD" HorizontalAlignment="Left" Height="50" Margin="192,152,0,0" VerticalAlignment="Top" Width="115" Click="Button_ClickStaticEquipmentCRUD"/>
+        <Button Content="StaticEquipment&#xD;&#xA;Management" HorizontalAlignment="Left" Height="50" Margin="336,152,0,0" VerticalAlignment="Top" Width="115" Click="Button_ClickManageStaticEquipment"/>
+<<<<<<< HEAD
+=======
+        <Button Content="MedicineCRUD" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Height="50" Margin="336,70,0,0" Click="Button_ClickMedicine"/>
+        <Button Content="Read medicine validations" HorizontalAlignment="Left" Margin="561,214,0,0" VerticalAlignment="Top" Width="150" Height="40" Click="Button_ClickReadValidations"/>
+        <Button Content="Search Equipment" HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Height="50" Margin="48,234,0,0" Click="Button_ClickSearchEquipment"/>
+        <ListBox x:Name="lb_validations" HorizontalAlignment="Left" Margin="508,70,0,0" VerticalAlignment="Top" Width="256" Height="132"/>
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+
+    </Grid>
+</Window>

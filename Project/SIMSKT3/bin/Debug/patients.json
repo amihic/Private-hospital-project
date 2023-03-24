@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "name": "Lana",
+    "surname": "Rikic",
+    "age": "25",
+    "jmbg": "2812345002012",
+    "phoneNumber": "061111111"
+  },
+  {
+    "id": 4,
+    "name": "Relja",
+    "surname": "Bojic",
+    "age": "48",
+    "jmbg": "2812345002014",
+    "phoneNumber": "061333333"
+  },
+  {
+    "id": 5,
+    "name": "Mara",
+    "surname": "Kojic",
+    "age": "49",
+    "jmbg": "2812345002015",
+    "phoneNumber": "061444444"
+  }
+]

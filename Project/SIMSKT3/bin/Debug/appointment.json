@@ -1,0 +1,113 @@
+[
+  {
+    "patient": null,
+    "secretary": null,
+    "guestAccount": null,
+    "doctor": null,
+    "employee": null,
+    "id": 1,
+<<<<<<< HEAD
+    "startTime": "10:30",
+    "endTime": "11:00",
+    "date": "4/22/2021",
+    "pati": "Lana Rikic 2812345002012",
+    "dr": null,
+    "type": "Examination",
+    "room": "Soba za preglede1 stolice",
+=======
+    "startTime": "2021-05-02T11:00:00",
+    "endTime": "2021-05-02T11:30:00",
+    "date": "2021-09-22T00:00:00",
+    "pati": "Mara Kojic 2812345002015",
+    "dr": null,
+    "type": "Examination",
+    "room": "18-OG",
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    "Patient": null,
+    "Secretary": null,
+    "GuestAccount": null,
+    "Doctor": null,
+    "Employee": null
+  },
+  {
+    "patient": null,
+    "secretary": null,
+    "guestAccount": null,
+    "doctor": null,
+    "employee": null,
+    "id": 2,
+<<<<<<< HEAD
+    "startTime": "11:00",
+    "endTime": "11:30",
+    "date": "4/22/2021",
+    "pati": "Relja Bojic 2812345002014",
+    "dr": null,
+    "type": "Examination",
+    "room": "Soba za preglede1 stolice",
+=======
+    "startTime": "2021-05-02T15:00:00",
+    "endTime": "2021-05-02T15:30:00",
+    "date": "2021-06-17T00:00:00",
+    "pati": "Dordje Bakic 2812345002019",
+    "dr": null,
+    "type": "Operation",
+    "room": "105-FR",
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    "Patient": null,
+    "Secretary": null,
+    "GuestAccount": null,
+    "Doctor": null,
+    "Employee": null
+  },
+  {
+    "patient": null,
+    "secretary": null,
+    "guestAccount": null,
+    "doctor": null,
+    "employee": null,
+    "id": 3,
+<<<<<<< HEAD
+    "startTime": "15:00",
+    "endTime": "15:30",
+    "date": "4/22/2021",
+    "pati": "Mara Kojic 2812345002015",
+    "dr": null,
+    "type": "Operation",
+    "room": "105-FR stolovi",
+=======
+    "startTime": "2021-05-02T20:00:00",
+    "endTime": "2021-05-02T21:00:00",
+    "date": "2021-09-05T00:00:00",
+    "pati": "Maja Milic 657858575",
+    "dr": null,
+    "type": "Operation",
+    "room": "GB-44",
+    "Patient": null,
+    "Secretary": null,
+    "GuestAccount": null,
+    "Doctor": null,
+    "Employee": null
+  },
+  {
+    "patient": null,
+    "secretary": null,
+    "guestAccount": null,
+    "doctor": null,
+    "employee": null,
+    "id": 4,
+    "startTime": "2021-05-02T22:10:00",
+    "endTime": "2021-05-02T22:30:00",
+    "date": "2021-05-22T00:00:00",
+    "pati": "Lana Rikic 2812345002012",
+    "dr": null,
+    "type": "Examination",
+    "room": "18-OG",
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
+    "Patient": null,
+    "Secretary": null,
+    "GuestAccount": null,
+    "Doctor": null,
+    "Employee": null
+  }
+  
+]

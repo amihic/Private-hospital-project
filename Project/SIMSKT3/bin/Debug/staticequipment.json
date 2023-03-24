@@ -1,0 +1,199 @@
+[
+  {
+<<<<<<< Updated upstream
+    "roomName": "105-FR",
+    "id": 22,
+    "typeOdStaticEquipment": "stolovi",
+    "quantity": 40
+  },
+  {
+    "roomName": "105-FR",
+<<<<<<< HEAD
+    "id": 1,
+    "typeOdStaticEquipment": "stolice",
+    "quantity": 21
+  },
+  {
+    "roomName": "GB-44",
+    "id": 1,
+    "typeOdStaticEquipment": "stolice",
+    "quantity": 9
+  },
+  {
+    "roomName": "GB-44",
+    "id": 19,
+    "typeOdStaticEquipment": "ormari",
+    "quantity": 24
+  },
+  {
+    "roomName": "105-FR",
+    "id": 19,
+    "typeOdStaticEquipment": "ormari",
+    "quantity": 22
+  },
+  {
+    "roomName": "GB-44",
+    "id": 5,
+    "typeOdStaticEquipment": "klupe",
+    "quantity": 55
+  },
+  {
+    "roomName": "105-FR",
+    "id": 5,
+    "typeOdStaticEquipment": "klupe",
+    "quantity": 170
+  },
+  {
+    "roomName": "GB-44",
+    "id": 112,
+    "typeOdStaticEquipment": "skeneri",
+    "quantity": 20
+=======
+    "id": 5,
+    "typeOdStaticEquipment": "klupe",
+    "quantity": 170
+  },
+  {
+    "roomName": "105-FR",
+    "id": 15,
+    "typeOdStaticEquipment": "aparati",
+    "quantity": 4
+  },
+  {
+    "roomName": "105-FR",
+    "id": 3,
+    "typeOdStaticEquipment": "solarni",
+    "quantity": 3
+  },
+  {
+    "roomName": "GB-44",
+    "id": 112,
+    "typeOdStaticEquipment": "skeneri",
+    "quantity": 54
+  },
+  {
+    "roomName": "107-TA",
+    "id": 5,
+    "typeOdStaticEquipment": "skeneri",
+    "quantity": 30
+  },
+  {
+    "roomName": "107-TA",
+    "id": 6,
+    "typeOdStaticEquipment": "regali",
+    "quantity": 14
+  },
+  {
+    "roomName": "19-AR",
+    "id": 221,
+    "typeOdStaticEquipment": "stolice",
+    "quantity": 3032
+  },
+  {
+    "roomName": "18-OG",
+    "id": 66,
+    "typeOdStaticEquipment": "lezaljke",
+    "quantity": 400
+  },
+  {
+    "roomName": "18-OG",
+    "id": 88,
+    "typeOdStaticEquipment": "solarni",
+    "quantity": 400
+  },
+  {
+    "roomName": "18-OG",
+    "id": 112,
+    "typeOdStaticEquipment": "skeneri",
+    "quantity": 10
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+  },
+  {
+    "roomName": "105-FR",
+    "id": 112,
+    "typeOdStaticEquipment": "skeneri",
+<<<<<<< HEAD
+    "quantity": 48
+  },
+  {
+    "roomName": "105-FR",
+    "id": 15,
+    "typeOdStaticEquipment": "aparati",
+    "quantity": 4
+  },
+  {
+    "roomName": "GB-44",
+    "id": 5,
+    "typeOdStaticEquipment": "aparati",
+    "quantity": 9
+  },
+  {
+    "roomName": "105-FR",
+    "id": 3,
+    "typeOdStaticEquipment": "solarni",
+    "quantity": 3
+=======
+    "quantity": 500
+  },
+  {
+    "roomName": "18-OG",
+    "id": 444,
+    "typeOdStaticEquipment": "stolice",
+    "quantity": 500
+  },
+  {
+    "roomName": "105-FR",
+    "id": 1,
+    "typeOdStaticEquipment": "stolice",
+    "quantity": 500
+  },
+  {
+    "roomName": "GB-44",
+    "id": 1,
+    "typeOdStaticEquipment": "stolice",
+    "quantity": 500
+  },
+  {
+    "roomName": "GB-44",
+    "id": 19,
+    "typeOdStaticEquipment": "ormari",
+    "quantity": 400
+  },
+  {
+    "roomName": "105-FR",
+    "id": 19,
+    "typeOdStaticEquipment": "ormari",
+    "quantity": 400
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+=======
+    "roomName": "Soba za preglede1",
+    "id": 1,
+    "typeOdStaticEquipment": "stolice",
+    "quantity": 44
+  },
+  {
+    "roomName": "Soba za preglede2",
+    "id": 5,
+    "typeOdStaticEquipment": "regali",
+    "quantity": 101
+  },
+  {
+    "roomName": "105-FR",
+    "id": 19,
+    "typeOdStaticEquipment": "stolice",
+    "quantity": 100
+  },
+  {
+    "roomName": "105-FR",
+    "id": 22,
+    "typeOdStaticEquipment": "stolovi",
+    "quantity": 40
+  },
+  {
+    "roomName": "107-AF",
+    "id": 11,
+    "typeOdStaticEquipment": "skeneri",
+    "quantity": 18
+>>>>>>> Stashed changes
+  }
+]

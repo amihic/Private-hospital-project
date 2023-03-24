@@ -1,0 +1,49 @@
+﻿<Window x:Class="SIMSKT3.AppointmentPatient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SIMSKT3"
+        mc:Ignorable="d"
+        Title="AppointmentPatient" Height="708" Width="722">
+    <Grid Margin="0,0,2,-21">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="287*"/>
+            <ColumnDefinition Width="417*"/>
+            <ColumnDefinition Width="88*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button Content="Back" HorizontalAlignment="Left" Height="40" Margin="354,594,0,0" VerticalAlignment="Top" Width="90" Click="Button_ClickBACK" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Label Content="ID:" HorizontalAlignment="Left" Margin="76,70,0,0" VerticalAlignment="Top" Height="26" Width="26"/>
+        <Label Content="START TIME:" HorizontalAlignment="Left" Margin="76,98,0,0" VerticalAlignment="Top" Height="26" Width="75"/>
+        <Label Content="END TIME:" HorizontalAlignment="Left" Margin="76,127,0,0" VerticalAlignment="Top" Height="26" Width="68"/>
+        <Label Content="DATE:" HorizontalAlignment="Left" Margin="76,154,0,0" VerticalAlignment="Top" Height="26" Width="42"/>
+        <DatePicker x:Name="Datepicker" HorizontalAlignment="Left" Margin="166,154,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="24" Width="186"/>
+        <Label Content="DOCTOR:" HorizontalAlignment="Left" Margin="76,182,0,0" VerticalAlignment="Top" Height="26" Width="68"/>
+        <Label Content="PRIORITY:" HorizontalAlignment="Left" Margin="76,219,0,0" VerticalAlignment="Top" Height="26" Width="68"/>
+        <RadioButton x:Name="timeRadioButton" Content="Time" HorizontalAlignment="Left" Margin="166,225,0,0" VerticalAlignment="Top" Width="59" IsChecked="True" Checked="timeRadioButton_Checked"/>
+        <RadioButton x:Name="doctorRadioButton" Content="Doctor" HorizontalAlignment="Left" Margin="0,225,0,0" VerticalAlignment="Top" Grid.Column="1" Checked="doctorRadioButton_Checked"/>
+        <TextBox x:Name="Textbox1" HorizontalAlignment="Left" Height="23" Margin="166,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="Textbox2" HorizontalAlignment="Left" Height="22" Margin="166,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="Textbox3" HorizontalAlignment="Left" Height="22" Margin="166,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" Grid.ColumnSpan="2"/>
+        <Button Content="Create" HorizontalAlignment="Left" Margin="166,285,0,0" VerticalAlignment="Top" Width="185" Height="30" Click="Button_Create" Grid.ColumnSpan="2"/>
+        <Button Content="See all appointments" HorizontalAlignment="Left" Margin="134,68,0,0" VerticalAlignment="Top" Width="170" Height="30" Click="read_all" Grid.Column="1" />
+        <Button Content="Update appointment" HorizontalAlignment="Left" Margin="134,148,0,0" VerticalAlignment="Top" Width="170" Height="30" Click="Button_ClickUpdate" Grid.Column="1"/>
+        <Button Content="Delete all appointments" HorizontalAlignment="Left" Margin="134,228,0,0" VerticalAlignment="Top" Width="170" Height="30" Click="Button_DeleteAll" Grid.Column="1"/>
+        <Button Content="Delete appointment" HorizontalAlignment="Left" Margin="134,189,0,0" VerticalAlignment="Top" Width="170" Height="29" Click="Button_ClickDelete" Grid.Column="1"/>
+        <Button Content="Read appointment" HorizontalAlignment="Left" Margin="134,107,0,0" VerticalAlignment="Top" Width="170" Height="30" Click="Button_ClickRead" Grid.Column="1"/>
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="35,255,0,0" VerticalAlignment="Top" Width="58" Height="19" Click="Button_ClickClear" Grid.Column="1"/>
+        <ListView x:Name="lv_appointments" HorizontalAlignment="Left" Height="284" Margin="38,350,0,0" VerticalAlignment="Top" Width="557" SelectionChanged="lv_appointments_SelectionChanged" Grid.ColumnSpan="2">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="480" Header="ID           START       END          DATE                  FULL NAME and SPECIALIZATION                                                       " />
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ComboBox x:Name="cb_doctors" HorizontalAlignment="Left" Margin="166,183,0,0" VerticalAlignment="Top" Width="186" Grid.ColumnSpan="2" SelectionChanged="cb_doctors_SelectionChanged" Height="22">
+            <ComboBoxItem></ComboBoxItem>
+        </ComboBox>
+
+    </Grid>
+</Window>

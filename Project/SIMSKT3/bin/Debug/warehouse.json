@@ -1,0 +1,80 @@
+[
+  {
+    "id": 18,
+    "typeOfDynamicEquipment": "flasteri",
+<<<<<<< HEAD
+    "quantity": 888
+  },
+  {
+    "id": 4,
+    "typeOfDynamicEquipment": "makaze",
+    "quantity": 120
+=======
+    "quantity": 400
+  },
+  {
+    "id": 4,
+    "typeOfDynamicEquipment": "flasteri",
+    "quantity": 500
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+  },
+  {
+    "id": 32,
+    "typeOfDynamicEquipment": "zavoji",
+<<<<<<< HEAD
+    "quantity": 200
+=======
+    "quantity": 500
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+  },
+  {
+    "id": 2,
+    "typeOfDynamicEquipment": "marame",
+<<<<<<< HEAD
+    "quantity": 700
+=======
+    "quantity": 500
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+  },
+  {
+    "id": 19,
+    "typeOfDynamicEquipment": "spricevi",
+<<<<<<< HEAD
+    "quantity": 1900
+=======
+    "quantity": 1400
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+  },
+  {
+    "id": 22,
+    "typeOfDynamicEquipment": "metle",
+<<<<<<< HEAD
+    "quantity": 40
+=======
+    "quantity": 500
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+  },
+  {
+    "id": 11,
+    "typeOfDynamicEquipment": "krpe",
+    "quantity": 500
+  },
+  {
+    "id": 3,
+    "typeOfDynamicEquipment": "vakcine",
+    "quantity": 9900
+<<<<<<< HEAD
+=======
+  },
+  {
+    "id": 1,
+    "typeOfDynamicEquipment": "pokrivaci",
+    "quantity": 400
+  },
+  {
+    "id": 1717,
+    "typeOfDynamicEquipment": "sajlice",
+    "quantity": 400
+>>>>>>> 22c5e86ff397741ea3d7633e5efd94cd720d3b2c
+  }
+]

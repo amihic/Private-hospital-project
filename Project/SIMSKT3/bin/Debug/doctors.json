@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Nikola",
+    "surname": "Milic",
+    "specialization": "Oftamolog"
+  },
+  {
+    "id": "2",
+    "name": "Marina",
+    "surname": "Ilic",
+    "specialization": "Dermatolog"
+  },
+  {
+    "id": "3",
+    "name": "Djordje",
+    "surname": "Jovic",
+    "specialization": "Opsta praksa"
+  },
+  {
+    "id": "4",
+    "name": "Natalija",
+    "surname": "Maric",
+    "specialization": "Opsta praksa"
+  },
+  {
+    "id": "5",
+    "name": "Ksenija",
+    "surname": "Buric",
+    "specialization": "Pedijatar"
+  },
+  {
+    "id": "6",
+    "name": "Nikolina",
+    "surname": "Simovic",
+    "specialization": "Hirurg"
+  },
+  {
+    "id": "7",
+    "name": "Sofija",
+    "surname": "Cvijovic",
+    "specialization": "Fizijatar"
+  },
+  {
+    "id": "8",
+    "name": "Pavle",
+    "surname": "Rodic",
+    "specialization": "Opsta praksa"
+  }
+]

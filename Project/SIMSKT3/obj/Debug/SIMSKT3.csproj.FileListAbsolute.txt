@@ -1,0 +1,264 @@
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.csprojAssemblyReference.cache
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\MainWindow.g.cs
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\App.g.cs
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.cache
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.lref
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\bin\Debug\SIMSKT3.exe.config
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\bin\Debug\SIMSKT3.exe
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\bin\Debug\SIMSKT3.pdb
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\MainWindow.baml
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.g.resources
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.Properties.Resources.resources
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.csproj.GenerateResource.cache
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.csproj.CoreCompileInputs.cache
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.exe
+C:\Users\LifeBook A574\Desktop\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.pdb
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\App.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.exe
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.pdb
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\ChooseDoctor.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\GuestAccountCreate.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\ManageAllergens.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\MedicalRecords.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\NewsBoard.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\OptionsSecretary.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\PatientAccountCRUD.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\ScheduleAppointment.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SecretaryUpdate.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SecretaryUpdateAllergen.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\UpdateNewsBoard.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\EmergencyAppointment.g.cs
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\bin\Debug\SIMSKT3.exe.config
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\bin\Debug\SIMSKT3.exe
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\bin\Debug\SIMSKT3.pdb
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\ChooseDoctor.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\GuestAccountCreate.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\ManageAllergens.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\MedicalRecords.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\NewsBoard.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\OptionsSecretary.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\PatientAccountCRUD.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\ScheduleAppointment.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SecretaryUpdate.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SecretaryUpdateAllergen.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\UpdateNewsBoard.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\EmergencyAppointment.baml
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.g.resources
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\KT4 za git\projekat za kt4\SIMSKT3\SIMSKT3\obj\Debug\SIMSKT3.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\bin\Debug\SIMSKT3.exe.config
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\bin\Debug\SIMSKT3.exe
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\bin\Debug\SIMSKT3.pdb
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3.csprojAssemblyReference.cache
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\ChooseDoctor.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\EmergencyAppointment.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\GuestAccountCreate.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\MainWindow.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\ManageAllergens.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\MedicalRecords.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\NewsBoard.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\OptionsSecretary.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\PatientAccountCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\ScheduleAppointment.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SecretaryUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SecretaryUpdateAllergen.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\UpdateNewsBoard.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\App.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.cache
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.lref
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\ChooseDoctor.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\EmergencyAppointment.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\GuestAccountCreate.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\MainWindow.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\ManageAllergens.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\MedicalRecords.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\NewsBoard.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\OptionsSecretary.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\PatientAccountCRUD.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\ScheduleAppointment.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SecretaryUpdate.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SecretaryUpdateAllergen.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\UpdateNewsBoard.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3.g.resources
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3.Properties.Resources.resources
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3.csproj.GenerateResource.cache
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3.csproj.CoreCompileInputs.cache
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3.csproj.CopyComplete
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3.exe
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SIMSKT3.pdb
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\DirectorUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\DynamicEquipmentCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\Extract.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\ManageStaticEquipment.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\Medicine.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\MedicineUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\OptionsDirector.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\Renovation.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\RoomCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SearchEquipment.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\StaticEquipmentCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\UpdateStaticEquipment.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\WarehouseUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\DirectorUpdate.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\DynamicEquipmentCRUD.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\Extract.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\ManageStaticEquipment.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\Medicine.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\MedicineUpdate.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\OptionsDirector.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\Renovation.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\RoomCRUD.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\SearchEquipment.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\StaticEquipmentCRUD.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\UpdateStaticEquipment.baml
+C:\Users\LifeBook A574\Desktop\SIMSprojekat-main\Project\SIMSKT3\obj\Debug\WarehouseUpdate.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\bin\Debug\SIMSKT3.exe.config
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\bin\Debug\SIMSKT3.exe
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\bin\Debug\SIMSKT3.pdb
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.csprojAssemblyReference.cache
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ChooseDoctor.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\DirectorUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\DynamicEquipmentCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\EmergencyAppointment.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Extract.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\GuestAccountCreate.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MainWindow.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ManageAllergens.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ManageStaticEquipment.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MedicalRecords.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Medicine.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MedicineUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\NewsBoard.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\OptionsDirector.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\OptionsSecretary.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\PatientAccountCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Renovation.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\RoomCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ScheduleAppointment.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SearchEquipment.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SecretaryUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SecretaryUpdateAllergen.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\StaticEquipmentCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\UpdateNewsBoard.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\UpdateStaticEquipment.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\WarehouseUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\App.g.cs
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.cache
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.lref
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ChooseDoctor.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\DirectorUpdate.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\DynamicEquipmentCRUD.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\EmergencyAppointment.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Extract.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\GuestAccountCreate.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MainWindow.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ManageAllergens.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ManageStaticEquipment.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MedicalRecords.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Medicine.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MedicineUpdate.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\NewsBoard.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\OptionsDirector.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\OptionsSecretary.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\PatientAccountCRUD.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Renovation.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\RoomCRUD.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ScheduleAppointment.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SearchEquipment.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SecretaryUpdate.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SecretaryUpdateAllergen.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\StaticEquipmentCRUD.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\UpdateNewsBoard.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\UpdateStaticEquipment.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\WarehouseUpdate.baml
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.g.resources
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.Properties.Resources.resources
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.csproj.GenerateResource.cache
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.csproj.CoreCompileInputs.cache
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.csproj.CopyComplete
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.exe
+C:\Users\LifeBook A574\Desktop\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.pdb
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\bin\Debug\SIMSKT3.exe.config
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\bin\Debug\SIMSKT3.exe
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\bin\Debug\SIMSKT3.pdb
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.csprojAssemblyReference.cache
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ChooseDoctor.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\DirectorUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\DynamicEquipmentCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\EmergencyAppointment.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Extract.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\GuestAccountCreate.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MainWindow.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ManageAllergens.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ManageStaticEquipment.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MedicalRecords.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Medicine.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MedicineUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\NewsBoard.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\OptionsDirector.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\OptionsSecretary.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\PatientAccountCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Renovation.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\RoomCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ScheduleAppointment.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SearchEquipment.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SecretaryUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SecretaryUpdateAllergen.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\StaticEquipmentCRUD.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\UpdateNewsBoard.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\UpdateStaticEquipment.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\WarehouseUpdate.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\App.g.cs
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.cache
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3_MarkupCompile.lref
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ChooseDoctor.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\DirectorUpdate.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\DynamicEquipmentCRUD.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\EmergencyAppointment.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Extract.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\GuestAccountCreate.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MainWindow.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ManageAllergens.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ManageStaticEquipment.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MedicalRecords.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Medicine.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\MedicineUpdate.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\NewsBoard.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\OptionsDirector.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\OptionsSecretary.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\PatientAccountCRUD.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\Renovation.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\RoomCRUD.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\ScheduleAppointment.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SearchEquipment.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SecretaryUpdate.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SecretaryUpdateAllergen.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\StaticEquipmentCRUD.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\UpdateNewsBoard.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\UpdateStaticEquipment.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\WarehouseUpdate.baml
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.g.resources
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.Properties.Resources.resources
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.csproj.GenerateResource.cache
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.csproj.CoreCompileInputs.cache
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.csproj.CopyComplete
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.exe
+C:\Users\LifeBook A574\Desktop\za git\upravnik i sekretar\Project\SIMSKT3\obj\Debug\SIMSKT3.pdb
+>>>>>>> 83499ee84be005688bb7f3e09a0e6c98d5c5d410
